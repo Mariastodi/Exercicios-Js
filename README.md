@@ -1,11 +1,6 @@
 ````markdown
 # Exercícios de JavaScript
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Status-Em%20Progresso-green?style=for-the-badge" alt="Status" />
-</p>
-
 Este repositório foi criado para armazenar meus estudos, desafios e exercícios práticos de **JavaScript**. O objetivo é consolidar o conhecimento desde a lógica básica até conceitos avançados da linguagem.
 
 ---
