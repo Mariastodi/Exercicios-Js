@@ -15,9 +15,17 @@ Cada módulo representa uma etapa da evolução nos estudos, começando pelos fu
 ```markdown id="modulos01"
 ### Módulos
 
-* **[Módulo 01](./modulo01):** Fundamentos — variáveis, tipos de dados, operadores e estruturas condicionais.  
-* **[Módulo 02](./modulo02):** Estruturas de repetição, arrays e funções básicas.  
-* **[Módulo 03](./modulo03):** Manipulação de objetos, métodos de array e lógica intermediária.  
+Módulo 01: Fundamentos — variáveis, tipos de dados, operadores e estruturas condicionais.
+
+Módulo 02: Estruturas de repetição, arrays e funções básicas.
+
+Módulo 03: Manipulação de objetos, métodos de array e lógica intermediária.
+
+Módulo 04: Trabalhando com funções — o que são funções, parâmetros, retorno e calculadora de partidas rankeadas.
+
+Módulo 05: Refinando sua técnica — desafios de código básicos em lógica de programação.
+
+Módulo 06: Estruturas de dados e objetos — introdução a objetos, estrutura de dados JSON, classes e objetos.  
 ```
 
 ---
@@ -29,9 +37,11 @@ As tecnologias utilizadas neste projeto foram escolhidas para apoiar o aprendiza
 ```markdown id="tec01"
 ### Tecnologias
 
-* **JavaScript:** Linguagem principal  
-* **Node.js:** Execução dos scripts via terminal  
-* **Git & GitHub:** Versionamento de código  
+JavaScript: Linguagem principal
+
+Node.js: Execução dos scripts via terminal
+
+Git & GitHub: Versionamento de código  
 ```
 
 ---
